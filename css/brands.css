@@ -633,3 +633,9 @@
     --button-border: 1px solid #000000;
 }
 
+/* Jami */
+.button-jami {
+    --button-text: #000000;
+    --button-background: #76bb40;
+				--button-border: 1px solid #000000;
+}
