@@ -619,3 +619,10 @@
     --button-border: 1px solid #FFFFFF;
 }
 
+/* Session */
+.button-session {
+    --button-text: #ffffff;
+    --button-background: #333132;
+    --button-border: 1px solid #FFFFFF;
+}
+
