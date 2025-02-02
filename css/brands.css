@@ -611,3 +611,11 @@
     --button-background: #ffffff;
     --button-border: 1px solid #000000;
 }
+
+/* git.gay */
+.button-git-gay {
+    --button-text: #ffffff;
+    --button-background: #8b0052;
+    --button-border: 1px solid #FFFFFF;
+}
+
