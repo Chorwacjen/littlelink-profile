@@ -280,3 +280,10 @@
     --button-background: #76bb40;
 				--button-border: 1px solid #000000;
 }
+
+/* SimpleX */
+.button-simplex {
+    --button-text: #ffffff;
+    --button-background: #00004f;
+    --button-border: 1px solid #FFFFFF;
+}
