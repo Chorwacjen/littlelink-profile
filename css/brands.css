@@ -45,57 +45,6 @@
 	--button-border:1px solid #FFFFFF;
 }
 
-/* Apple Music */
-.button-apple-music {
-	--button-text:#ffffff;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* Apple Music Alt */
-.button-apple-music-alt {
-	--button-text:#ffffff;
-	background-image:linear-gradient(to bottom,#FB5C74,#FA233B);
-}
-
-/* Apple Podcasts */
-.button-apple-podcasts {
-	--button-text:#ffffff;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* Apple Podcasts Alt */
-.button-apple-podcasts-alt {
-	--button-text:#ffffff;
-	background-image:linear-gradient(to bottom,#F452FF,#832BC1);
-}
-
-/* Bluesky */
-.button-bluesky {
-	--button-text:#FFFFFF;
-	--button-background:#1185FE;
-}
-
-/* Bluesky Alt */
-.button-bluesky-alt {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #000000;
-}
-
-/* Buy Me a Coffee */
-.button-coffee {
-	--button-text:#000000;
-	--button-background:#ffdd00;
-}
-
-/* Discord */
-.button-discord {
-	--button-text:#ffffff;
-	--button-background:#5865F2;
-}
-
 /* GitHub */
 .button-github {
 	--button-text:#ffffff;
@@ -103,61 +52,9 @@
 	--button-border:1px solid #FFFFFF;
 }
 
-/* GitLab */
-.button-gitlab {
-	--button-text:#ffffff;
-	--button-background:#6151b2;
-}
-
 /* Google Play Store */
 .button-playstore {
 	--button-text:#FFFFFF;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* Instagram */
-.button-instagram {
-	--button-text:#ffffff;
-	background-image:linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
-}
-
-/* Kick */
-.button-kick {
-	--button-text:#ffffff;
-	--button-background:#000000;
-	--button-border:1px solid #ffffff;
-}
-
-/* Kick Alt */
-.button-kick-alt {
-	--button-text:#000000;
-	--button-background:#01e701;
-}
-
-/* Kickstarter */
-.button-kickstarter {
-	--button-text:#ffffff;
-	--button-background:#05ce78;
-}
-
-/* Ko-fi */
-.button-ko-fi {
-	--button-text:#ffffff;
-	--button-background:#000000;
-  --button-border:1px solid #FFFFFF;
-}
-
-/* Mastodon */
-.button-mastodon {
-	--button-text:#ffffff;
-	--button-background:#17063B;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* Microsoft */
-.button-microsoft {
-	--button-text:#ffffff;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
@@ -174,12 +71,6 @@
 	--button-text:#FFFFFF;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
-}
-
-/* Shop */
-.button-shop {
-	--button-text:#ffffff;
-	--button-background:#5A31F4;
 }
 
 /* Signal */
@@ -199,13 +90,6 @@
 	--button-text:#FFFFFF;
 	--button-background:#191414;
 	--button-border:1px solid #FFFFFF;
-}
-
-/* Stack Overflow */
-.button-stack-overflow {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #000000;
 }
 
 /* Steam */
@@ -231,19 +115,6 @@
 .button-threema {
 	--button-text:#000000;
 	--button-background:#3fe669;
-}
-
-/* YouTube */
-.button-yt {
-	--button-text:#ffffff;
-	--button-background:#282828;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* YouTube Alt */
-.button-yt-alt {
-	--button-text:#ffffff;
-	--button-background:#FF0000;
 }
 
 /* Codeberg */
